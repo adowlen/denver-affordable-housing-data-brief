@@ -1,0 +1,20 @@
+rows: 497
+Counter(STATUS): {'Constructed & Open': 494, 'Preservation in Progress': 3}
+Counter(RENTAL_SALE): {'Rental': 401, 'Sale': 96}
+Counter(FUNDING_CATEGORY): {'City Funded': 256, 'No City Funds': 237, None: 4}
+Counter(NEIGHBORHOOD): {'Villa Park': 6, 'Capitol Hill': 23, 'Hale': 2, 'West Colfax': 17, 'Civic Center': 3, 'Congress Park': 12, 'City Park': 5, 'Platt Park': 1, 'City Park West': 18, 'Central Park': 33, 'Five Points': 56, 'Highland': 13, 'Northeast Park Hill': 17, 'Cherry Creek': 4, 'Lincoln Park': 22, 'CBD': 12, 'Harvey Park': 3, 'Skyland': 4, 'Sunnyside': 7, 'North Capitol Hill': 12, 'Cole': 12, 'Speer': 5, 'Berkeley': 2, 'Chaffee Park': 5, 'Virginia Village': 5, 'Baker': 6, 'Union Station': 15, 'Westwood': 17, 'College View - South Platte': 9, 'Lowry Field': 13, 'Overland': 3, 'Ruby Hill': 10, 'Elyria Swansea': 6, 'Cheesman Park': 7, 'University Hills': 6, 'Sloan Lake': 4, 'Jefferson Park': 3, 'Clayton': 6, 'Valverde': 2, 'University': 3, 'Montbello': 7, 'Mar Lee': 4, 'Regis': 1, 'Sun Valley': 10, 'Harvey Park South': 4, 'Athmar Park': 3, 'University Park': 2, 'Fort Logan': 3, 'Washington Virginia Vale': 5, 'Barnum': 3, 'Hampden South': 3, 'Globeville': 7, 'Gateway - Green Valley Ranch': 5, 'East Colfax': 8, 'Washington Park West': 2, 'West Highland': 2, 'DIA': 3, 'Whittier': 5, None: 2, 'Hampden': 2, 'South Park Hill': 3, 'Montclair': 2, 'Bear Valley': 1, 'Rosedale': 1}
+Counter(COUNCIL_DISTRICT): {3: 77, 10: 92, 5: 25, 7: 37, 9: 107, 8: 64, 1: 41, 2: 18, 6: 12, 4: 11, 11: 11, None: 2}
+RESTRICTED_UNITS: no nulls, no zeros, no negatives - no sentinel mapping needed, none excluded.
+SUPPORTIVE_UNITS nulls: 0 (null treated as 0 only for the supportive sum; supportive share denominator is total restricted units, asserted below).
+  matched sample: 10th & Sheridan supportive=60
+  matched sample: 1467 N Detroit St. - Empowerment Program supportive=4
+  matched sample: 17th Street Redevelopment supportive=36
+  excluded sample: 1135 Logan St supportive=0
+  excluded sample: 1195 Birch St supportive=0
+  excluded sample: 1241 Stuart Street Apartments supportive=0
+CONTROL neighborhood: 29389 + 85 no-neighborhood = 29474 PASS
+CONTROL district: 29389 + 85 no-district = 29474 PASS
+CONTROL rental/sale and status partitions both sum to 29474 PASS
+Funding shares use denominator 497 projects (incl. 4 not determined): City Funded 51.5%, No City Funds 47.7%, not determined 0.8% - shares sum to 100%.
+Small-count note: neighborhood rates are unit rates; neighborhoods with fewer than 30 restricted units are printed with their unit counts in the panel CSV and are not ranked in the brief.
+AUDIT PASSED
