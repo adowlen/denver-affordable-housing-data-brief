@@ -1,0 +1,53 @@
+# Denver Lists 29,474 Income-Restricted Homes in 497 Projects - and Records None in 15 Neighborhoods
+
+Denver's income-restricted affordable housing inventory, published by the Department of Housing Stability (HOST) and pulled in full on October 21, 2026, lists 497 projects holding 29,474 restricted units. Against the 359,352 housing units in the neighborhood panel used across this series (ACS units, see Sources), that is 82.0 restricted units per 1,000 housing units citywide. The inventory records at least one project in 63 of Denver's 78 statistical neighborhoods and records no project in 15: Auraria, Barnum West, Belcaro, Cory - Merrill, Country Club, Goldsmith, Hilltop, Indian Creek, Kennedy, Marston, North Park Hill, Southmoor Park, Washington Park, Wellshire, and Windsor. "Records no project" is a statement about this inventory as filed: dispersed and scattered-site portfolios are booked to a single neighborhood (Finding 4), so a neighborhood with no recorded project may still contain individual scattered-site homes this dataset does not locate there. Five Points holds the most restricted units of any neighborhood (2,757 units in 56 projects), followed by Central Park (1,998 in 33) and Lincoln Park (1,740 in 22). The median project holds 41 restricted units; 87 projects hold 100 or more units and carry 14,430 units between them (49.0 percent of the total, derived).
+
+All figures below come from the HOST inventory itself unless a denominator is named. A project is one row of the inventory as published; Finding 4 records where that grain matters, because several rows are dispersed-site programs counted once for many addresses. Status as filed: 494 projects (29,299 units) read "Constructed & Open" and 3 projects (175 units) read "Preservation in Progress." No project in the pull carries any other status, so this inventory is a list of open and in-preservation projects, not a pipeline list.
+
+## Finding 1: The rental side carries almost all of it: 26,907 of 29,474 units
+
+401 projects are filed as Rental, holding 26,907 restricted units (91.3 percent, derived). 96 projects are filed as Sale, holding 2,567 units (8.7 percent, derived). Every one of the inventory's 2,628 supportive units sits in a rental project; no Sale project reports a supportive unit.
+
+## Finding 2: Supportive units are 8.9 percent of the restricted total, in 59 projects
+
+The inventory files 2,628 supportive units, a ratio of 8.9 percent to the restricted total (derived), spread across 59 of the 497 projects. One record breaks a strict subset reading: Warren Village (Cheesman Park) files 94 supportive units against 93 restricted units, so the supportive count is printed as a ratio to the restricted total, not as a subset of it. By the funding field as filed, 2,483 of those supportive units sit in City Funded projects and 145 in No City Funds projects. Five Points holds the most supportive units (457), followed by District 10's neighborhoods in aggregate; at council-district level, District 10 holds 839 supportive units and District 9 holds 772, while Districts 4 and 11 hold none in this inventory.
+
+## Finding 3: Rates per 1,000 housing units run from 424.9 down to zero - with one neighborhood the rate cannot describe
+
+Excluding Sun Valley (below), the highest restricted-unit rates are Lincoln Park (1,740 units; 424.9 per 1,000 housing units), Ruby Hill (1,303; 353.2), Globeville (518; 280.7), Northeast Park Hill (979; 279.3), and West Colfax (1,621; 225.6). The citywide rate is 82.0 per 1,000. At the other end, Hampden records 64 restricted units against 10,881 housing units (5.9 per 1,000), and the 15 neighborhoods named above record zero.
+
+Sun Valley is printed separately because its rate does not describe a share of anything: the inventory lists 1,196 restricted units in 10 Sun Valley projects, while the ACS housing-unit base for Sun Valley in the neighborhood panel is 502.9 units, a ratio of 2,378.2 per 1,000. A restricted count larger than the neighborhood's counted housing units means the two sources are not measuring the same housing stock for this neighborhood (the ACS base predates or undercounts the redeveloped stock the inventory lists, or the inventory assigns units to Sun Valley that the ACS base counts elsewhere). This brief prints Sun Valley's project and unit counts and does not rank its rate.
+
+## Finding 4: A "project" is not always a building: the largest rows are programs and dispersed portfolios
+
+The largest single row is Green Valley Ranch (476 units, filed as Sale, Gateway - Green Valley Ranch, with no address in the source): it reads as an aggregate tally for a program area, not one building, and it is 59.2 percent of its neighborhood's recorded total (without it, Gateway - Green Valley Ranch records 328 units). It is never a "largest building" figure. The next largest rows are three Denver Housing Authority dispersed portfolios: DHA Dispersed Housing South (419 units, booked to Ruby Hill), DHA Dispersed Housing East (340 units, booked to Montbello), and DHA Dispersed Housing West (323 units, booked to Lincoln Park) - 1,082 units combined, each filed as one project at one address, with its units spread across addresses the inventory does not list separately. The neighborhood totals in this brief are as recorded, with that distortion attached: without the dispersed rows, Ruby Hill records 884 units instead of 1,303, Lincoln Park 1,417 instead of 1,740, and Montbello 424 instead of 764. Dispersed and explicitly scattered-site records together account for 1,308 units; the scattered-site rows (9 records, 226 units) include two Habitat for Humanity records carrying the address 201 W Colfax Ave, an administrative address, not a housing site. Project counts by neighborhood therefore undercount sites in neighborhoods where dispersed portfolios sit, and a neighborhood's project count is not a building count. The top 10 projects by units hold 3,320 units (11.3 percent of the total, derived).
+
+## Finding 5: Half the units opened in this century's three decades; the dates carry a placeholder pattern
+
+By BUILT_OPEN_DATE as filed, the 2000s account for 137 projects and 7,350 units, the 2010s for 127 projects and 7,169 units, and 2020-2025 for 94 projects and 6,270 units. 8,331 units sit in projects dated before 2000 (derived). Two date caveats are printed with these figures: 163 of the 490 dated projects carry a January 1 date, consistent with a year-only value recorded as January 1, so this brief groups by decade and never by month or day (three projects are dated 1900-01-01, a placeholder pattern, and are counted in the 1900s decade as filed); and 7 projects carry no date at all and are excluded from every decade count above, which is why the decade counts sum to 490 projects, not 497.
+
+## Finding 6: City funding touches about half the inventory, as filed
+
+256 projects (15,635 units) are filed as City Funded, 237 projects (13,658 units) as No City Funds, and 4 projects (181 units) carry no funding value. Those shares are computed on all 497 projects, with the 4 not-determined projects (0.8 percent) printed rather than dropped from the denominator. The funding field records the category as filed in the inventory; this brief does not trace any project's financing beyond that field.
+
+## Data notes and limits
+
+- Coverage: the inventory is HOST's list of income-restricted projects. Restricted homes administered outside this inventory, if any exist, are not counted here, and this brief makes no claim that 29,474 is a count of every income-restricted home in Denver - it is the count in the published inventory.
+- Denominators: neighborhood rates divide inventory restricted units (2026 pull) by ACS housing units from the neighborhood panel assembled for this series. The two sources have different vintages; Sun Valley (Finding 3) shows where that mismatch can dominate a rate. Rates for neighborhoods with small restricted counts are printed with their unit counts in the panel data file and are not ranked in the text.
+- Records with no neighborhood: 2 projects (85 units) carry no neighborhood or council district in the source; they are counted in every citywide total and in no neighborhood or district total, which is why neighborhood and district sums reconcile to 29,389, not 29,474. The citywide rate of 82.0 per 1,000 uses all 29,474 units as its numerator; on neighborhood-assigned units alone it would be 81.8. 19 projects carry no street address.
+- No income-band detail: the inventory carries no AMI band, rent level, or bedroom count field, so this brief cannot say how deep the restriction runs in any project, only that the units are restricted.
+- Causality: this brief describes where restricted units sit. It does not measure why, and no finding here implies a placement decision by any named body.
+
+## What this might mean
+
+One reading of the map is that restricted supply follows the older multifamily stock and the public housing footprint: the highest unit counts sit in Five Points, Lincoln Park, and West Colfax, and the zero-project list is concentrated in neighborhoods of predominantly single-family stock. The strongest alternative explanation is administrative: the inventory records where restricted projects were built and preserved over five decades under changing programs, and its neighborhood pattern may track land cost and zoning capacity at each project's opening date rather than any current placement pattern. The data in this package can show the current map; it cannot by itself separate those two accounts.
+
+## Who can act
+
+- Who: Denver Department of Housing Stability (HOST), which publishes this inventory; and Denver City Council, which holds the 2027 budget (hearing October 26, amendment vote November 2, passage November 9, 2026).
+- Action: HOST can publish the inventory with an AMI-band field and a site-level file for dispersed portfolios (low-cost operational change - a documentation and data-publication decision). Council can direct new restricted-unit funding with the zero-project and low-rate neighborhoods named in this brief as the comparison set (budget decision).
+- How we would know it worked: the next HOST inventory pull would show a changed count of zero-project neighborhoods and changed rates in the lowest-rate neighborhoods, measured in this same dataset, and an AMI field would let the next brief report depth of restriction, not only count.
+
+## Methods
+
+Pull, definitions, audit results, and the methods checklist are recorded in verification.md and sources.md in this package. Every figure in this brief cross-checks against stats.json (Section 10.3 sync gate, recorded in verification.md).

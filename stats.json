@@ -1,0 +1,816 @@
+{
+  "source_pull_date": "2026-10-21",
+  "projects_total": 497,
+  "restricted_units_total": 29474,
+  "supportive_units_total": 2628,
+  "supportive_projects": 59,
+  "supportive_share_of_restricted_pct": 8.9,
+  "by_status": {
+    "Constructed & Open": {
+      "projects": 494,
+      "restricted_units": 29299,
+      "supportive_units": 2628
+    },
+    "Preservation in Progress": {
+      "projects": 3,
+      "restricted_units": 175,
+      "supportive_units": 0
+    }
+  },
+  "by_rental_sale": {
+    "Rental": {
+      "projects": 401,
+      "restricted_units": 26907,
+      "supportive_units": 2628
+    },
+    "Sale": {
+      "projects": 96,
+      "restricted_units": 2567,
+      "supportive_units": 0
+    }
+  },
+  "by_funding": {
+    "City Funded": {
+      "projects": 256,
+      "restricted_units": 15635,
+      "supportive_units": 2483
+    },
+    "No City Funds": {
+      "projects": 237,
+      "restricted_units": 13658,
+      "supportive_units": 145
+    },
+    "Not determined": {
+      "projects": 4,
+      "restricted_units": 181,
+      "supportive_units": 0
+    }
+  },
+  "funding_not_determined_projects": 4,
+  "median_project_units": 41,
+  "largest_project_units": 476,
+  "top10_projects_units": 3320,
+  "top10_projects_share_pct": 11.3,
+  "projects_100plus_units": 87,
+  "units_in_100plus_projects": 14430,
+  "acs_housing_units_total": 359351.5,
+  "citywide_restricted_per_1000_units": 82.0,
+  "neighborhoods_total": 78,
+  "neighborhoods_with_projects": 63,
+  "neighborhoods_zero_projects": [
+    "Auraria",
+    "Barnum West",
+    "Belcaro",
+    "Cory - Merrill",
+    "Country Club",
+    "Goldsmith",
+    "Hilltop",
+    "Indian Creek",
+    "Kennedy",
+    "Marston",
+    "North Park Hill",
+    "Southmoor Park",
+    "Washington Park",
+    "Wellshire",
+    "Windsor"
+  ],
+  "neighborhoods": {
+    "Athmar Park": {
+      "projects": 3,
+      "restricted_units": 306,
+      "supportive_units": 79,
+      "acs_units": 3223.0,
+      "restricted_per_1000_units": 94.9
+    },
+    "Auraria": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 107.2,
+      "restricted_per_1000_units": 0.0
+    },
+    "Baker": {
+      "projects": 6,
+      "restricted_units": 521,
+      "supportive_units": 24,
+      "acs_units": 4202.0,
+      "restricted_per_1000_units": 124.0
+    },
+    "Barnum": {
+      "projects": 3,
+      "restricted_units": 115,
+      "supportive_units": 108,
+      "acs_units": 2069.0,
+      "restricted_per_1000_units": 55.6
+    },
+    "Barnum West": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 1965.0,
+      "restricted_per_1000_units": 0.0
+    },
+    "Bear Valley": {
+      "projects": 1,
+      "restricted_units": 114,
+      "supportive_units": 0,
+      "acs_units": 3893.7,
+      "restricted_per_1000_units": 29.3
+    },
+    "Belcaro": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 3365.9,
+      "restricted_per_1000_units": 0.0
+    },
+    "Berkeley": {
+      "projects": 2,
+      "restricted_units": 129,
+      "supportive_units": 0,
+      "acs_units": 4787.5,
+      "restricted_per_1000_units": 26.9
+    },
+    "CBD": {
+      "projects": 12,
+      "restricted_units": 641,
+      "supportive_units": 0,
+      "acs_units": 3794.4,
+      "restricted_per_1000_units": 168.9
+    },
+    "Capitol Hill": {
+      "projects": 23,
+      "restricted_units": 990,
+      "supportive_units": 195,
+      "acs_units": 12681.3,
+      "restricted_per_1000_units": 78.1
+    },
+    "Central Park": {
+      "projects": 33,
+      "restricted_units": 1998,
+      "supportive_units": 91,
+      "acs_units": 12563.2,
+      "restricted_per_1000_units": 159.0
+    },
+    "Chaffee Park": {
+      "projects": 5,
+      "restricted_units": 200,
+      "supportive_units": 0,
+      "acs_units": 1761.6,
+      "restricted_per_1000_units": 113.5
+    },
+    "Cheesman Park": {
+      "projects": 7,
+      "restricted_units": 235,
+      "supportive_units": 148,
+      "acs_units": 6162.1,
+      "restricted_per_1000_units": 38.1
+    },
+    "Cherry Creek": {
+      "projects": 4,
+      "restricted_units": 360,
+      "supportive_units": 0,
+      "acs_units": 5280.6,
+      "restricted_per_1000_units": 68.2
+    },
+    "City Park": {
+      "projects": 5,
+      "restricted_units": 199,
+      "supportive_units": 5,
+      "acs_units": 2182.5,
+      "restricted_per_1000_units": 91.2
+    },
+    "City Park West": {
+      "projects": 18,
+      "restricted_units": 681,
+      "supportive_units": 93,
+      "acs_units": 3820.6,
+      "restricted_per_1000_units": 178.2
+    },
+    "Civic Center": {
+      "projects": 3,
+      "restricted_units": 230,
+      "supportive_units": 100,
+      "acs_units": 2890.1,
+      "restricted_per_1000_units": 79.6
+    },
+    "Clayton": {
+      "projects": 6,
+      "restricted_units": 167,
+      "supportive_units": 49,
+      "acs_units": 1830.5,
+      "restricted_per_1000_units": 91.2
+    },
+    "Cole": {
+      "projects": 12,
+      "restricted_units": 418,
+      "supportive_units": 0,
+      "acs_units": 2019.8,
+      "restricted_per_1000_units": 207.0
+    },
+    "College View - South Platte": {
+      "projects": 9,
+      "restricted_units": 228,
+      "supportive_units": 0,
+      "acs_units": 2705.7,
+      "restricted_per_1000_units": 84.3
+    },
+    "Congress Park": {
+      "projects": 12,
+      "restricted_units": 294,
+      "supportive_units": 52,
+      "acs_units": 6331.2,
+      "restricted_per_1000_units": 46.4
+    },
+    "Cory - Merrill": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 1812.6,
+      "restricted_per_1000_units": 0.0
+    },
+    "Country Club": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 1485.7,
+      "restricted_per_1000_units": 0.0
+    },
+    "DIA": {
+      "projects": 3,
+      "restricted_units": 426,
+      "supportive_units": 0,
+      "acs_units": 1908.5,
+      "restricted_per_1000_units": 223.2
+    },
+    "East Colfax": {
+      "projects": 8,
+      "restricted_units": 804,
+      "supportive_units": 72,
+      "acs_units": 4781.1,
+      "restricted_per_1000_units": 168.2
+    },
+    "Elyria Swansea": {
+      "projects": 6,
+      "restricted_units": 258,
+      "supportive_units": 18,
+      "acs_units": 2146.7,
+      "restricted_per_1000_units": 120.2
+    },
+    "Five Points": {
+      "projects": 56,
+      "restricted_units": 2757,
+      "supportive_units": 457,
+      "acs_units": 15648.5,
+      "restricted_per_1000_units": 176.2
+    },
+    "Fort Logan": {
+      "projects": 3,
+      "restricted_units": 117,
+      "supportive_units": 0,
+      "acs_units": 3806.8,
+      "restricted_per_1000_units": 30.7
+    },
+    "Gateway - Green Valley Ranch": {
+      "projects": 5,
+      "restricted_units": 804,
+      "supportive_units": 0,
+      "acs_units": 16720.6,
+      "restricted_per_1000_units": 48.1
+    },
+    "Globeville": {
+      "projects": 7,
+      "restricted_units": 518,
+      "supportive_units": 207,
+      "acs_units": 1845.7,
+      "restricted_per_1000_units": 280.7
+    },
+    "Goldsmith": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 3001.2,
+      "restricted_per_1000_units": 0.0
+    },
+    "Hale": {
+      "projects": 2,
+      "restricted_units": 118,
+      "supportive_units": 0,
+      "acs_units": 5365.4,
+      "restricted_per_1000_units": 22.0
+    },
+    "Hampden": {
+      "projects": 2,
+      "restricted_units": 64,
+      "supportive_units": 0,
+      "acs_units": 10880.6,
+      "restricted_per_1000_units": 5.9
+    },
+    "Hampden South": {
+      "projects": 3,
+      "restricted_units": 198,
+      "supportive_units": 0,
+      "acs_units": 9276.0,
+      "restricted_per_1000_units": 21.3
+    },
+    "Harvey Park": {
+      "projects": 3,
+      "restricted_units": 75,
+      "supportive_units": 0,
+      "acs_units": 4333.3,
+      "restricted_per_1000_units": 17.3
+    },
+    "Harvey Park South": {
+      "projects": 4,
+      "restricted_units": 349,
+      "supportive_units": 0,
+      "acs_units": 3624.4,
+      "restricted_per_1000_units": 96.3
+    },
+    "Highland": {
+      "projects": 13,
+      "restricted_units": 276,
+      "supportive_units": 28,
+      "acs_units": 7071.3,
+      "restricted_per_1000_units": 39.0
+    },
+    "Hilltop": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 3850.2,
+      "restricted_per_1000_units": 0.0
+    },
+    "Indian Creek": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 2165.0,
+      "restricted_per_1000_units": 0.0
+    },
+    "Jefferson Park": {
+      "projects": 3,
+      "restricted_units": 82,
+      "supportive_units": 0,
+      "acs_units": 3418.7,
+      "restricted_per_1000_units": 24.0
+    },
+    "Kennedy": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 2271.0,
+      "restricted_per_1000_units": 0.0
+    },
+    "Lincoln Park": {
+      "projects": 22,
+      "restricted_units": 1740,
+      "supportive_units": 0,
+      "acs_units": 4094.6,
+      "restricted_per_1000_units": 424.9
+    },
+    "Lowry Field": {
+      "projects": 13,
+      "restricted_units": 615,
+      "supportive_units": 20,
+      "acs_units": 5904.3,
+      "restricted_per_1000_units": 104.2
+    },
+    "Mar Lee": {
+      "projects": 4,
+      "restricted_units": 108,
+      "supportive_units": 76,
+      "acs_units": 4216.4,
+      "restricted_per_1000_units": 25.6
+    },
+    "Marston": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 5597.2,
+      "restricted_per_1000_units": 0.0
+    },
+    "Montbello": {
+      "projects": 7,
+      "restricted_units": 764,
+      "supportive_units": 0,
+      "acs_units": 9442.0,
+      "restricted_per_1000_units": 80.9
+    },
+    "Montclair": {
+      "projects": 2,
+      "restricted_units": 5,
+      "supportive_units": 3,
+      "acs_units": 3166.9,
+      "restricted_per_1000_units": 1.6
+    },
+    "North Capitol Hill": {
+      "projects": 12,
+      "restricted_units": 934,
+      "supportive_units": 251,
+      "acs_units": 5934.7,
+      "restricted_per_1000_units": 157.4
+    },
+    "North Park Hill": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 4481.3,
+      "restricted_per_1000_units": 0.0
+    },
+    "Northeast Park Hill": {
+      "projects": 17,
+      "restricted_units": 979,
+      "supportive_units": 139,
+      "acs_units": 3505.1,
+      "restricted_per_1000_units": 279.3
+    },
+    "Overland": {
+      "projects": 3,
+      "restricted_units": 119,
+      "supportive_units": 0,
+      "acs_units": 2077.8,
+      "restricted_per_1000_units": 57.3
+    },
+    "Platt Park": {
+      "projects": 1,
+      "restricted_units": 4,
+      "supportive_units": 0,
+      "acs_units": 3519.6,
+      "restricted_per_1000_units": 1.1
+    },
+    "Regis": {
+      "projects": 1,
+      "restricted_units": 100,
+      "supportive_units": 0,
+      "acs_units": 1844.5,
+      "restricted_per_1000_units": 54.2
+    },
+    "Rosedale": {
+      "projects": 1,
+      "restricted_units": 6,
+      "supportive_units": 0,
+      "acs_units": 1467.7,
+      "restricted_per_1000_units": 4.1
+    },
+    "Ruby Hill": {
+      "projects": 10,
+      "restricted_units": 1303,
+      "supportive_units": 85,
+      "acs_units": 3689.1,
+      "restricted_per_1000_units": 353.2
+    },
+    "Skyland": {
+      "projects": 4,
+      "restricted_units": 94,
+      "supportive_units": 0,
+      "acs_units": 1774.3,
+      "restricted_per_1000_units": 53.0
+    },
+    "Sloan Lake": {
+      "projects": 4,
+      "restricted_units": 339,
+      "supportive_units": 27,
+      "acs_units": 4306.2,
+      "restricted_per_1000_units": 78.7
+    },
+    "South Park Hill": {
+      "projects": 3,
+      "restricted_units": 223,
+      "supportive_units": 19,
+      "acs_units": 3759.8,
+      "restricted_per_1000_units": 59.3
+    },
+    "Southmoor Park": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 3954.1,
+      "restricted_per_1000_units": 0.0
+    },
+    "Speer": {
+      "projects": 5,
+      "restricted_units": 154,
+      "supportive_units": 0,
+      "acs_units": 9332.9,
+      "restricted_per_1000_units": 16.5
+    },
+    "Sun Valley": {
+      "projects": 10,
+      "restricted_units": 1196,
+      "supportive_units": 0,
+      "acs_units": 502.9,
+      "restricted_per_1000_units": 2378.2
+    },
+    "Sunnyside": {
+      "projects": 7,
+      "restricted_units": 691,
+      "supportive_units": 0,
+      "acs_units": 5327.5,
+      "restricted_per_1000_units": 129.7
+    },
+    "Union Station": {
+      "projects": 15,
+      "restricted_units": 771,
+      "supportive_units": 0,
+      "acs_units": 8240.9,
+      "restricted_per_1000_units": 93.6
+    },
+    "University": {
+      "projects": 3,
+      "restricted_units": 98,
+      "supportive_units": 38,
+      "acs_units": 3814.0,
+      "restricted_per_1000_units": 25.7
+    },
+    "University Hills": {
+      "projects": 6,
+      "restricted_units": 221,
+      "supportive_units": 0,
+      "acs_units": 3477.4,
+      "restricted_per_1000_units": 63.6
+    },
+    "University Park": {
+      "projects": 2,
+      "restricted_units": 23,
+      "supportive_units": 0,
+      "acs_units": 4743.9,
+      "restricted_per_1000_units": 4.8
+    },
+    "Valverde": {
+      "projects": 2,
+      "restricted_units": 205,
+      "supportive_units": 0,
+      "acs_units": 1587.0,
+      "restricted_per_1000_units": 129.2
+    },
+    "Villa Park": {
+      "projects": 6,
+      "restricted_units": 544,
+      "supportive_units": 60,
+      "acs_units": 3101.5,
+      "restricted_per_1000_units": 175.4
+    },
+    "Virginia Village": {
+      "projects": 5,
+      "restricted_units": 263,
+      "supportive_units": 19,
+      "acs_units": 7508.0,
+      "restricted_per_1000_units": 35.0
+    },
+    "Washington Park": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 3770.8,
+      "restricted_per_1000_units": 0.0
+    },
+    "Washington Park West": {
+      "projects": 2,
+      "restricted_units": 15,
+      "supportive_units": 7,
+      "acs_units": 4328.9,
+      "restricted_per_1000_units": 3.5
+    },
+    "Washington Virginia Vale": {
+      "projects": 5,
+      "restricted_units": 323,
+      "supportive_units": 3,
+      "acs_units": 7332.1,
+      "restricted_per_1000_units": 44.1
+    },
+    "Wellshire": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 1432.2,
+      "restricted_per_1000_units": 0.0
+    },
+    "West Colfax": {
+      "projects": 17,
+      "restricted_units": 1621,
+      "supportive_units": 94,
+      "acs_units": 7186.2,
+      "restricted_per_1000_units": 225.6
+    },
+    "West Highland": {
+      "projects": 2,
+      "restricted_units": 45,
+      "supportive_units": 0,
+      "acs_units": 5780.6,
+      "restricted_per_1000_units": 7.8
+    },
+    "Westwood": {
+      "projects": 17,
+      "restricted_units": 1009,
+      "supportive_units": 25,
+      "acs_units": 5148.6,
+      "restricted_per_1000_units": 196.0
+    },
+    "Whittier": {
+      "projects": 5,
+      "restricted_units": 205,
+      "supportive_units": 36,
+      "acs_units": 2251.0,
+      "restricted_per_1000_units": 91.1
+    },
+    "Windsor": {
+      "projects": 0,
+      "restricted_units": 0,
+      "supportive_units": 0,
+      "acs_units": 8699.3,
+      "restricted_per_1000_units": 0.0
+    }
+  },
+  "top_neighborhoods_by_units": [
+    [
+      "Five Points",
+      2757,
+      56,
+      176.2
+    ],
+    [
+      "Central Park",
+      1998,
+      33,
+      159.0
+    ],
+    [
+      "Lincoln Park",
+      1740,
+      22,
+      424.9
+    ],
+    [
+      "West Colfax",
+      1621,
+      17,
+      225.6
+    ],
+    [
+      "Ruby Hill",
+      1303,
+      10,
+      353.2
+    ],
+    [
+      "Sun Valley",
+      1196,
+      10,
+      2378.2
+    ],
+    [
+      "Westwood",
+      1009,
+      17,
+      196.0
+    ],
+    [
+      "Capitol Hill",
+      990,
+      23,
+      78.1
+    ],
+    [
+      "Northeast Park Hill",
+      979,
+      17,
+      279.3
+    ],
+    [
+      "North Capitol Hill",
+      934,
+      12,
+      157.4
+    ]
+  ],
+  "by_district": {
+    "3": {
+      "projects": 77,
+      "restricted_units": 6257,
+      "supportive_units": 287
+    },
+    "10": {
+      "projects": 92,
+      "restricted_units": 4447,
+      "supportive_units": 839
+    },
+    "5": {
+      "projects": 25,
+      "restricted_units": 1301,
+      "supportive_units": 26
+    },
+    "7": {
+      "projects": 37,
+      "restricted_units": 2705,
+      "supportive_units": 195
+    },
+    "9": {
+      "projects": 107,
+      "restricted_units": 4878,
+      "supportive_units": 772
+    },
+    "8": {
+      "projects": 64,
+      "restricted_units": 4559,
+      "supportive_units": 321
+    },
+    "1": {
+      "projects": 41,
+      "restricted_units": 1929,
+      "supportive_units": 55
+    },
+    "2": {
+      "projects": 18,
+      "restricted_units": 887,
+      "supportive_units": 76
+    },
+    "6": {
+      "projects": 12,
+      "restricted_units": 557,
+      "supportive_units": 57
+    },
+    "4": {
+      "projects": 11,
+      "restricted_units": 483,
+      "supportive_units": 0
+    },
+    "11": {
+      "projects": 11,
+      "restricted_units": 1386,
+      "supportive_units": 0
+    },
+    "Not determined": {
+      "projects": 2,
+      "restricted_units": 85,
+      "supportive_units": 0
+    }
+  },
+  "by_decade_opened": {
+    "1900": {
+      "projects": 9,
+      "restricted_units": 305
+    },
+    "1910": {
+      "projects": 3,
+      "restricted_units": 240
+    },
+    "1920": {
+      "projects": 2,
+      "restricted_units": 116
+    },
+    "1930": {
+      "projects": 1,
+      "restricted_units": 19
+    },
+    "1940": {
+      "projects": 3,
+      "restricted_units": 38
+    },
+    "1950": {
+      "projects": 10,
+      "restricted_units": 1184
+    },
+    "1960": {
+      "projects": 14,
+      "restricted_units": 1085
+    },
+    "1970": {
+      "projects": 15,
+      "restricted_units": 1767
+    },
+    "1980": {
+      "projects": 23,
+      "restricted_units": 1883
+    },
+    "1990": {
+      "projects": 52,
+      "restricted_units": 1694
+    },
+    "2000": {
+      "projects": 137,
+      "restricted_units": 7350
+    },
+    "2010": {
+      "projects": 127,
+      "restricted_units": 7169
+    },
+    "2020": {
+      "projects": 94,
+      "restricted_units": 6270
+    }
+  },
+  "built_open_no_date": 7,
+  "built_open_jan1_placeholder_dates": 163,
+  "opened_2020_2025_projects": 94,
+  "opened_2020_2025_units": 6270,
+  "records_no_neighborhood": 2,
+  "records_no_address": 19,
+  "sun_valley": {
+    "projects": 10,
+    "restricted_units": 1196,
+    "supportive_units": 0,
+    "acs_units": 502.9,
+    "restricted_per_1000_units": 2378.2
+  }
+}
